@@ -1,7 +1,0 @@
-{
-  "parent": "block/fence_post",
-  "textures": {
-    "texture": "nirslands_minecraft_dlc_mod:blocks/poisonednether_bricks",
-    "particle": "nirslands_minecraft_dlc_mod:blocks/poisonednether_bricks"
-  }
-}
