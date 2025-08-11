@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "nirslands_minecraft_dlc_mod:star_bricks"
+    },
+    "1": {
+      "item": "nirslands_minecraft_dlc_mod:star_bricks"
+    },
+    "2": {
+      "item": "nirslands_minecraft_dlc_mod:star_bricks"
+    },
+    "3": {
+      "item": "nirslands_minecraft_dlc_mod:star_bricks"
+    },
+    "4": {
+      "item": "nirslands_minecraft_dlc_mod:star_bricks"
+    },
+    "5": {
+      "item": "nirslands_minecraft_dlc_mod:star_bricks"
+    }
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:stat_brick_wall",
+    "count": 6
+  }
+}
