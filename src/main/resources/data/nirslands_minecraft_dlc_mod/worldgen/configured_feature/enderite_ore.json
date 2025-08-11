@@ -1,0 +1,20 @@
+{
+  "type": "nirslands_minecraft_dlc_mod:enderite_ore",
+  "config": {
+    "size": 4,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:end_stone"
+          }
+        },
+        "state": {
+          "Name": "nirslands_minecraft_dlc_mod:enderite_ore"
+        }
+      }
+    ]
+  }
+}

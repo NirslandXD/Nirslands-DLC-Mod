@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nirslands_minecraft_dlc_mod:star_shard"
+    }
+  ],
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:star_powder",
+    "count": 2
+  }
+}

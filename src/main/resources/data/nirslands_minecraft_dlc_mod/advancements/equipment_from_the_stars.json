@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "nirslands_minecraft_dlc_mod:deleted_mod_element_chestplate"
+    },
+    "title": {
+      "translate": "advancements.equipment_from_the_stars.title"
+    },
+    "description": {
+      "translate": "advancements.equipment_from_the_stars.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "equipment_from_the_stars": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "nirslands_minecraft_dlc_mod:to_the_stars"
+}

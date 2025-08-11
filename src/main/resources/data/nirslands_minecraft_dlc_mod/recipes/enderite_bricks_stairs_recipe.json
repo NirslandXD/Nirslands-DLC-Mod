@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nirslands_minecraft_dlc_mod:enderite_bricks"
+    },
+    "3": {
+      "item": "nirslands_minecraft_dlc_mod:enderite_bricks"
+    },
+    "4": {
+      "item": "nirslands_minecraft_dlc_mod:enderite_bricks"
+    },
+    "6": {
+      "item": "nirslands_minecraft_dlc_mod:enderite_bricks"
+    },
+    "7": {
+      "item": "nirslands_minecraft_dlc_mod:enderite_bricks"
+    },
+    "8": {
+      "item": "nirslands_minecraft_dlc_mod:enderite_bricks"
+    }
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:enderite_bricks_stairs",
+    "count": 4
+  }
+}

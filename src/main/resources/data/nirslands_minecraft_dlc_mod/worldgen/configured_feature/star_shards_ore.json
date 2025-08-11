@@ -1,0 +1,23 @@
+{
+  "type": "nirslands_minecraft_dlc_mod:star_shards_ore",
+  "config": {
+    "size": 2,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:deepslate",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "nirslands_minecraft_dlc_mod:star_shards_ore"
+        }
+      }
+    ]
+  }
+}

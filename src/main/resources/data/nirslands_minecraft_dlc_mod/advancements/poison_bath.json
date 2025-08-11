@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "nirslands_minecraft_dlc_mod:acid_bucket"
+    },
+    "title": {
+      "translate": "advancements.poison_bath.title"
+    },
+    "description": {
+      "translate": "advancements.poison_bath.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "poison_bath": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "nirslands_minecraft_dlc_mod:poisoned_nether_advancment"
+}

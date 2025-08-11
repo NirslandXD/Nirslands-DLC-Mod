@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "nirslands_minecraft_dlc_mod:star_stick"
+  },
+  "addition": {
+    "item": "nirslands_minecraft_dlc_mod:poisoned_netherack"
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:poison_wand"
+  }
+}

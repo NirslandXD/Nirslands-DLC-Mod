@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "minecraft:diamond_boots"
+  },
+  "addition": {
+    "item": "nirslands_minecraft_dlc_mod:ancient_star"
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:star_boots"
+  }
+}

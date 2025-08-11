@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "nirslands_minecraft_dlc_mod:star_stick"
+  },
+  "addition": {
+    "item": "minecraft:magma_block"
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:fire_wand"
+  }
+}
