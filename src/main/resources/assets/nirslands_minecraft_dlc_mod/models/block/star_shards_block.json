@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nirslands_minecraft_dlc_mod:block/starshardsblock",
+    "up": "nirslands_minecraft_dlc_mod:block/starshardsblock",
+    "north": "nirslands_minecraft_dlc_mod:block/starshardsblock",
+    "east": "nirslands_minecraft_dlc_mod:block/starshardsblock",
+    "south": "nirslands_minecraft_dlc_mod:block/starshardsblock",
+    "west": "nirslands_minecraft_dlc_mod:block/starshardsblock",
+    "particle": "nirslands_minecraft_dlc_mod:block/starshardsblock"
+  },
+  "render_type": "solid"
+}

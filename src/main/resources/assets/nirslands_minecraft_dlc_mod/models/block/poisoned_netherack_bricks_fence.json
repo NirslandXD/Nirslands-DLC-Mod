@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "nirslands_minecraft_dlc_mod:block/poisonednether_bricks",
+    "particle": "nirslands_minecraft_dlc_mod:block/poisonednether_bricks"
+  },
+  "render_type": "solid"
+}
