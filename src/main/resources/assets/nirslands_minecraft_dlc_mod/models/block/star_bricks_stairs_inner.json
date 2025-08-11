@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "nirslands_minecraft_dlc_mod:blocks/starbricks",
+    "top": "nirslands_minecraft_dlc_mod:blocks/starbricks",
+    "side": "nirslands_minecraft_dlc_mod:blocks/starbricks"
+  },
+  "render_type": "solid"
+}

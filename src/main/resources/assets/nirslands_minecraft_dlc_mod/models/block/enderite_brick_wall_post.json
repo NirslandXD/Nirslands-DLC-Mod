@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "nirslands_minecraft_dlc_mod:blocks/enderitebricks",
+    "particle": "nirslands_minecraft_dlc_mod:blocks/enderitebricks"
+  },
+  "render_type": "solid"
+}

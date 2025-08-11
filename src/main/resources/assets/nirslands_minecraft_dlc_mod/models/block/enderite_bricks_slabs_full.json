@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "nirslands_minecraft_dlc_mod:blocks/enderitebricks",
+    "top": "nirslands_minecraft_dlc_mod:blocks/enderitebricks",
+    "side": "nirslands_minecraft_dlc_mod:blocks/enderitebricks"
+  },
+  "render_type": "solid"
+}

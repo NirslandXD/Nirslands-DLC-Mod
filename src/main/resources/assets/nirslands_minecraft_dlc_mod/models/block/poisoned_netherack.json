@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nirslands_minecraft_dlc_mod:blocks/poisonednetherrack",
+    "up": "nirslands_minecraft_dlc_mod:blocks/poisonednetherrack",
+    "north": "nirslands_minecraft_dlc_mod:blocks/poisonednetherrack",
+    "east": "nirslands_minecraft_dlc_mod:blocks/poisonednetherrack",
+    "south": "nirslands_minecraft_dlc_mod:blocks/poisonednetherrack",
+    "west": "nirslands_minecraft_dlc_mod:blocks/poisonednetherrack",
+    "particle": "nirslands_minecraft_dlc_mod:blocks/poisonednetherrack"
+  },
+  "render_type": "solid"
+}
