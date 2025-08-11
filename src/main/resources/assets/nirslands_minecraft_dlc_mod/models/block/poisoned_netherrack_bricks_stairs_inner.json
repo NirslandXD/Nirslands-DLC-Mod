@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "nirslands_minecraft_dlc_mod:blocks/poisonednether_bricks",
+    "top": "nirslands_minecraft_dlc_mod:blocks/poisonednether_bricks",
+    "side": "nirslands_minecraft_dlc_mod:blocks/poisonednether_bricks"
+  }
+}

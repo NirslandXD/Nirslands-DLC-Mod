@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nirslands_minecraft_dlc_mod:blocks/rawenderiteblock",
+    "up": "nirslands_minecraft_dlc_mod:blocks/rawenderiteblock",
+    "north": "nirslands_minecraft_dlc_mod:blocks/rawenderiteblock",
+    "east": "nirslands_minecraft_dlc_mod:blocks/rawenderiteblock",
+    "south": "nirslands_minecraft_dlc_mod:blocks/rawenderiteblock",
+    "west": "nirslands_minecraft_dlc_mod:blocks/rawenderiteblock",
+    "particle": "nirslands_minecraft_dlc_mod:blocks/rawenderiteblock"
+  }
+}

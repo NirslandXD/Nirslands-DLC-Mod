@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nirslands_minecraft_dlc_mod:blocks/satrshardsoredeepslate",
+    "up": "nirslands_minecraft_dlc_mod:blocks/satrshardsoredeepslate",
+    "north": "nirslands_minecraft_dlc_mod:blocks/satrshardsoredeepslate",
+    "east": "nirslands_minecraft_dlc_mod:blocks/satrshardsoredeepslate",
+    "south": "nirslands_minecraft_dlc_mod:blocks/satrshardsoredeepslate",
+    "west": "nirslands_minecraft_dlc_mod:blocks/satrshardsoredeepslate",
+    "particle": "nirslands_minecraft_dlc_mod:blocks/satrshardsoredeepslate"
+  }
+}

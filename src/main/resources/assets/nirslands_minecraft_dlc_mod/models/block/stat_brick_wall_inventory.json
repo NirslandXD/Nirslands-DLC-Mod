@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "nirslands_minecraft_dlc_mod:blocks/starbricks",
+    "particle": "nirslands_minecraft_dlc_mod:blocks/starbricks"
+  }
+}

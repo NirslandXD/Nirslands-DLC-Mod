@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nirslands_minecraft_dlc_mod:blocks/enderitebricks",
+    "up": "nirslands_minecraft_dlc_mod:blocks/enderitebricks",
+    "north": "nirslands_minecraft_dlc_mod:blocks/enderitebricks",
+    "east": "nirslands_minecraft_dlc_mod:blocks/enderitebricks",
+    "south": "nirslands_minecraft_dlc_mod:blocks/enderitebricks",
+    "west": "nirslands_minecraft_dlc_mod:blocks/enderitebricks",
+    "particle": "nirslands_minecraft_dlc_mod:blocks/enderitebricks"
+  }
+}
