@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite_block"
+    }
+  ],
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:raw_enderite",
+    "count": 9
+  }
+}

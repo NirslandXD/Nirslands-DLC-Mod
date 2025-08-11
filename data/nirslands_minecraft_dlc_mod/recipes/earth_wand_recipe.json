@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "nirslands_minecraft_dlc_mod:star_stick"
+  },
+  "addition": {
+    "tag": "minecraft:dirt"
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:earth_wand"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "nirslands_minecraft_dlc_mod:star_shards_block",
+    "nirslands_minecraft_dlc_mod:star_shards_ore",
+    "nirslands_minecraft_dlc_mod:star_bricks",
+    "nirslands_minecraft_dlc_mod:star_bricks_stairs",
+    "nirslands_minecraft_dlc_mod:star_bricks_slabs",
+    "nirslands_minecraft_dlc_mod:stat_brick_wall",
+    "nirslands_minecraft_dlc_mod:poisoned_netherack",
+    "nirslands_minecraft_dlc_mod:poisoned_netherrack_bricks_stairs",
+    "nirslands_minecraft_dlc_mod:enderite_block",
+    "nirslands_minecraft_dlc_mod:raw_enderite_block",
+    "nirslands_minecraft_dlc_mod:enderite_ore"
+  ]
+}

@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT License"
+
+[[mods]]
+modId="nirslands_minecraft_dlc_mod"
+version="2.0"
+displayName="Nirsland's Minecraft DLC Mod"
+credits="Nirsland"
+displayURL="https://modrinth.com/mod/nirslands-minecraft-dlc-mod"
+logoFile="logo.png"
+authors="Nirsland"
+description="Nirsland's DLC mod adds structures, ores, armors, weapons and upgrades progression after End and before it."
+
+[[dependencies.nirslands_minecraft_dlc_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

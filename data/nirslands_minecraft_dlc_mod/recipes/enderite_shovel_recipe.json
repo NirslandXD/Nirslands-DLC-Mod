@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "addition": {
+    "item": "nirslands_minecraft_dlc_mod:enderite_ingot"
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:enderite_shovel"
+  }
+}
