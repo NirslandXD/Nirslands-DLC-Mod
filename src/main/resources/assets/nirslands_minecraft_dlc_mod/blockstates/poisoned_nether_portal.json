@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nirslands_minecraft_dlc_mod:block/poisoned_nether_portal_ew"
+    },
+    "axis=x": {
+      "model": "nirslands_minecraft_dlc_mod:block/poisoned_nether_portal_ns"
+    }
+  }
+}
