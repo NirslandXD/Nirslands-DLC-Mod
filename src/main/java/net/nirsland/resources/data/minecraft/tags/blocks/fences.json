@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:nether_brick_fence",
+    "nirslands_minecraft_dlc_mod:poisoned_netherack_bricks_fence"
+  ]
+}
