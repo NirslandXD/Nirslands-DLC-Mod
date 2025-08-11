@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:spider_eye"
+    },
+    "3": {
+      "item": "minecraft:blaze_rod"
+    },
+    "4": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    },
+    "7": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:poisoned_nether",
+    "count": 1
+  }
+}

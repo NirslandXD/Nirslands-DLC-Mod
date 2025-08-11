@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite"
+    },
+    "1": {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite"
+    },
+    "2": {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite"
+    },
+    "3": {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite"
+    },
+    "4": {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite"
+    },
+    "5": {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite"
+    },
+    "6": {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite"
+    },
+    "7": {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite"
+    },
+    "8": {
+      "item": "nirslands_minecraft_dlc_mod:raw_enderite"
+    }
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:raw_enderite_block",
+    "count": 1
+  }
+}

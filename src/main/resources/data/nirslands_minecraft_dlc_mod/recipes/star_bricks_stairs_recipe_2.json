@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "nirslands_minecraft_dlc_mod:star_bricks"
+  },
+  "result": "nirslands_minecraft_dlc_mod:star_bricks_stairs"
+}

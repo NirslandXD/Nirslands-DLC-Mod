@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "nirslands_minecraft_dlc_mod:poisoned_nether_fortrest",
+  "step": "underground_structures"
+}

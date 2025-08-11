@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "nirslands_minecraft_dlc_mod:star_shard"
+    },
+    "1": {
+      "item": "nirslands_minecraft_dlc_mod:star_shard"
+    },
+    "2": {
+      "item": "nirslands_minecraft_dlc_mod:star_shard"
+    },
+    "3": {
+      "item": "nirslands_minecraft_dlc_mod:star_shard"
+    }
+  },
+  "result": {
+    "item": "nirslands_minecraft_dlc_mod:star_shards_block",
+    "count": 1
+  }
+}
