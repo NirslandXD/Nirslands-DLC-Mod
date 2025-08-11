@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "nirslands_minecraft_dlc_mod:block/starbricks",
+    "particle": "nirslands_minecraft_dlc_mod:block/starbricks"
+  },
+  "render_type": "solid"
+}

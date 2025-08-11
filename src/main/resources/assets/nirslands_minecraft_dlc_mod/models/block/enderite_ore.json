@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nirslands_minecraft_dlc_mod:block/enderore",
+    "up": "nirslands_minecraft_dlc_mod:block/enderore",
+    "north": "nirslands_minecraft_dlc_mod:block/enderore",
+    "east": "nirslands_minecraft_dlc_mod:block/enderore",
+    "south": "nirslands_minecraft_dlc_mod:block/enderore",
+    "west": "nirslands_minecraft_dlc_mod:block/enderore",
+    "particle": "nirslands_minecraft_dlc_mod:block/enderore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "nirslands_minecraft_dlc_mod:block/starbricks",
+    "top": "nirslands_minecraft_dlc_mod:block/starbricks",
+    "side": "nirslands_minecraft_dlc_mod:block/starbricks"
+  },
+  "render_type": "solid"
+}

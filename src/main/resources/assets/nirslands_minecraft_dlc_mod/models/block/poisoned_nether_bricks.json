@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nirslands_minecraft_dlc_mod:block/poisonednether_bricks",
+    "up": "nirslands_minecraft_dlc_mod:block/poisonednether_bricks",
+    "north": "nirslands_minecraft_dlc_mod:block/poisonednether_bricks",
+    "east": "nirslands_minecraft_dlc_mod:block/poisonednether_bricks",
+    "south": "nirslands_minecraft_dlc_mod:block/poisonednether_bricks",
+    "west": "nirslands_minecraft_dlc_mod:block/poisonednether_bricks",
+    "particle": "nirslands_minecraft_dlc_mod:block/poisonednether_bricks"
+  },
+  "render_type": "solid"
+}

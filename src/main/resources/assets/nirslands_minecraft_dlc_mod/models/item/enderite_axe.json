@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "nirslands_minecraft_dlc_mod:item/enderiteaxe"
+  }
+}

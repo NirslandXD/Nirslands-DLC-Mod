@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "nirslands_minecraft_dlc_mod:block/enderitebricks",
+    "top": "nirslands_minecraft_dlc_mod:block/enderitebricks",
+    "side": "nirslands_minecraft_dlc_mod:block/enderitebricks"
+  },
+  "render_type": "solid"
+}
