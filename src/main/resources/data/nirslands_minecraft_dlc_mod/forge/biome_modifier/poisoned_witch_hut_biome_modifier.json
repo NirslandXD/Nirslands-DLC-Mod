@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "nirslands_minecraft_dlc_mod:poisoned_witch_hut",
+  "step": "underground_structures"
+}
